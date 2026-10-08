@@ -1,0 +1,1 @@
+﻿[{"id":"node0001","type":"tab","label":"01 Saída Inicial"},{"id":"node0003","type":"inject","z":"node0001","name":"Disparo","payload":"Bem-vindo ao Node-RED!","payloadType":"str","x":130,"y":100,"wires":[["node0004"]]},{"id":"node0004","type":"debug","z":"node0001","name":"Log Debug","active":true,"complete":"payload","x":360,"y":100}]

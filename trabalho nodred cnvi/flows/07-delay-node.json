@@ -1,0 +1,1 @@
+﻿[{"id":"node0031","type":"tab","label":"07 Pausa Delay"},{"id":"node0033","type":"delay","z":"node0031","name":"temporizador 2s","pauseType":"delay","timeout":"2","timeoutUnits":"seconds","x":310,"y":100}]

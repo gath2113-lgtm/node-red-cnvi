@@ -1,0 +1,1 @@
+﻿[{"id":"node0043","type":"tab","label":"10 Variável de Contexto"},{"id":"node0045","type":"function","z":"node0043","name":"Contador de Fluxo","func":"let contador = flow.get('c') || 0;\ncontador++;\nflow.set('c', contador);\nmsg.payload = contador;\nreturn msg;","x":370,"y":100}]

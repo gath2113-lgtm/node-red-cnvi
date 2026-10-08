@@ -1,0 +1,1 @@
+﻿[{"id":"node0010","type":"tab","label":"03 Nó Function"},{"id":"node0012","type":"function","z":"node0010","name":"converter maiúsculas","func":"let texto = msg.payload;\nmsg.payload = texto.toUpperCase();\nreturn msg;","x":340,"y":100}]

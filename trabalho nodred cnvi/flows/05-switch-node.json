@@ -1,0 +1,1 @@
+﻿[{"id":"node0018","type":"tab","label":"05 Decisão Switch"},{"id":"node0021","type":"switch","z":"node0018","name":"validar faixa","property":"payload","propertyType":"msg","rules":[{"t":"lt","v":"30","vt":"num"},{"t":"gt","v":"70","vt":"num"}],"x":480,"y":140}]

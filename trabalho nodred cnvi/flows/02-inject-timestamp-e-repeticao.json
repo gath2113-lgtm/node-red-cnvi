@@ -1,0 +1,1 @@
+﻿[{"id":"node0005","type":"tab","label":"02 Timestamp Disparo"},{"id":"node0007","type":"inject","z":"node0005","name":"gerar hora","payload":"","payloadType":"date","x":130,"y":100,"wires":[["node0009"]]},{"id":"node0009","type":"debug","z":"node0005","name":"resultado","active":true,"complete":"payload","x":370,"y":100}]

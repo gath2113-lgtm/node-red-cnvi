@@ -1,0 +1,1 @@
+﻿[{"id":"node0014","type":"tab","label":"04 Alterar Mensagem"},{"id":"node0016","type":"change","z":"node0014","name":"definir valor 25","rules":[{"t":"set","p":"payload","pt":"msg","to":"25","tot":"num"}],"x":340,"y":100}]

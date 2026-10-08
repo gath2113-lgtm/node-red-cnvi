@@ -1,0 +1,1 @@
+﻿[{"id":"node0026","type":"tab","label":"06 Nó Template"},{"id":"node0029","type":"template","z":"node0026","name":"formatar texto","template":"Boas-vindas, {{payload}}!","x":500,"y":100}]
