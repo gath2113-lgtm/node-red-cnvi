@@ -4,13 +4,13 @@ Este repositório contém os exercícios e fluxos desenvolvidos para a disciplin
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 - **`README.md`**: Guia explicativo dos conteúdos do repositório.
 - **`flows/`**: Arquivos em formato JSON contendo a lógica dos fluxos implementados.
 
 ---
 
-## 📋 Lista de Fluxos Desenvolvidos
+## Lista de Fluxos Desenvolvidos
 
 | Arquivo / Fluxo | Conceito Estudado | Descrição Funcional |
 |---|---|---|
@@ -28,7 +28,7 @@ Este repositório contém os exercícios e fluxos desenvolvidos para a disciplin
 
 ---
 
-## ⚙️ Como Rodar os Fluxos
+## Como Rodar os Fluxos
 
 1. Certifique-se de ter o **Node.js** e o **Node-RED** instalados globalmente.
 2. Inicie o ambiente executando o comando `node-red` no terminal.
